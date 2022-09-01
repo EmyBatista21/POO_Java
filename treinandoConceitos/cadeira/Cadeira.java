@@ -1,4 +1,4 @@
-package cadeira;
+package treinandoConceitos.cadeira;
 
 public class Cadeira {
     
