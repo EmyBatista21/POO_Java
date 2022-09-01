@@ -1,4 +1,4 @@
-package ventilador;
+package treinandoConceitos.ventilador;
 
 public class CriandoVentiladores {
     public static void main(String[] args) {

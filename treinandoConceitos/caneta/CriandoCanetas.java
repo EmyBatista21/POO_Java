@@ -1,4 +1,4 @@
-package caneta;
+package treinandoConceitos.caneta;
 public class CriandoCanetas {
     public static void main(String[] args) {
         // Instancias
